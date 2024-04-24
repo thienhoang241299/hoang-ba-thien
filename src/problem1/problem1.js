@@ -42,6 +42,6 @@ var sum_to_n_c = function(n) {
 };
 
 
-console.log(sum_to_n_a(10.9))
-console.log(sum_to_n_b(10.9))
-console.log(sum_to_n_c(10463))
+console.log(sum_to_n_a(10))
+console.log(sum_to_n_b(10))
+console.log(sum_to_n_c(10))
