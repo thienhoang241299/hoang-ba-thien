@@ -1,5 +1,5 @@
-// If input is non-negatuve interger, it's will be throw error 'Input must be a non-negative integer'
-// And input must be interger, if input is non interger, it's will be throw error 'Input must be a integer'
+// If input is non-negative integer, it's will be throw error 'Input must be a non-negative integer'
+// And input must be integer, if input is non integer, it's will be throw error 'Input must be a integer'
 // in function sum_to_n_c, i use recursion so if input greater than 10464, it will give stack overflow error
 
 var sum_to_n_a = function(n) {
