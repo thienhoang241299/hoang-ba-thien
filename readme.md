@@ -1,10 +1,16 @@
 # 99Tech Code Challenge #1 #
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+Tôi chọn thử thách của tab front-end, nên tôi code cho 3 problem 1,2,3.
+Phần bài làm của tôi nằm trong thu mực src.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+## Problem 1:
+Tôi tạo một file là problem1.js trong folder problem1 để thực hiện bài làm của tôi.
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+## Problem 2:
+Ở thử thách này tôi tạo một ứng dụng Reactjs tên là currency-swap.
+Trong đó, tôi tạo component CurrencySwap trong folder component để triển khai phần thử thách chính
+
+## Problem 3:
+ở thử thách này, bạn có thể check phần code đề xuất cải thiện, cũng như giải thích tại sao lại làm như vậy của tôi trong file WalletBalance.tsx
+Tôi cũng kèm theo một file document-problem-3.md để viết các đề xuất cải thiện.
+
