@@ -1,16 +1,15 @@
 # 99Tech Code Challenge #1 #
-
-Tôi chọn thử thách của tab front-end, nên tôi code cho 3 problem 1,2,3.
-Phần bài làm của tôi nằm trong thu mực src.
+I chose the front-end tab challenge, so I coded for problems 1, 2, and 3.
+My solutions are located in the src folder.
 
 ## Problem 1:
-Tôi tạo một file là problem1.js trong folder problem1 để thực hiện bài làm của tôi.
+I created a file named problem1.js in the problem1 folder to implement my solution.
 
 ## Problem 2:
-Ở thử thách này tôi tạo một ứng dụng Reactjs tên là currency-swap.
-Trong đó, tôi tạo component CurrencySwap trong folder component để triển khai phần thử thách chính
+In this challenge, I created a React.js application named currency-swap. 
+Within it, I created a CurrencySwap component in the components folder to implement the main challenge.
 
 ## Problem 3:
-ở thử thách này, bạn có thể check phần code đề xuất cải thiện, cũng như giải thích tại sao lại làm như vậy của tôi trong file WalletBalance.tsx
-Tôi cũng kèm theo một file document-problem-3.md để viết các đề xuất cải thiện.
+Sure, I can review the proposed improvements in your code and explain why you implemented them in the WalletBalance.tsx file. 
+I'll also take a look at the document-problem-3.md file for any improvement suggestions
 
